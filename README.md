@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+git remote add origin https://github.com/yarraballikumarreddy/mybigapp.git
+git branch -M main
+git push -u origin main
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
