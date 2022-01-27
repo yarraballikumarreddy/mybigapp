@@ -33,7 +33,7 @@ export default class App extends Component {
           }}
         >
           {" "}
-          submit
+          todo submit
         </button>
         <input
           type="text"
